@@ -160,7 +160,7 @@ footer {
     text-align: center;
     
 }
-
-footer h2 {
+/* removed h2 add h6 tag */
+footer h6 {
     font-size: 20px;
 }
